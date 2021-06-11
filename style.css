@@ -1,0 +1,180 @@
+body {
+   margin: 0;
+   padding: 0;
+   font-family: Sans-Serif;
+}
+.botton-0 ul {
+   list-style: none;
+   margin: 0;
+  
+}
+.botton-0 {
+   float: right;
+   margin-top: -87px;
+ }
+.botton-0 ul li {
+   margin: 0;
+   display: inline;
+   font-weight: bold;
+   padding-right: 10px;
+   font-size: 10px;
+   color: #4d4d4d;
+}
+.botton-0 ul li a {
+   color: grey;
+   text-decoration: none;
+}
+h1 .g {
+   color: #008ae6;
+   opacity: 0.9;
+}
+h1 .o {
+   color: #e65c00;
+}
+h1 .o-2 {
+   color: #e6b800;
+}
+h1 .l {
+   color: green;
+   opacity: 0.8;
+}
+h1 {
+   width: ;
+}
+.container {
+   overflow: hidden;
+   
+   margin-top: 90px;
+}
+.heading {
+   text-align: center;
+   display: block;
+}
+h1 {
+   margin: 0;
+   margin-bottom: 20px;
+   font-size: 50px;
+   
+}
+.search input {
+   font-size: 16px;
+   /*border: 1.5px solid #e6e6e6;*/
+   border: none;
+   padding-left: 5px;
+   outline: none;
+   width: 385px;
+   box-sizing: border-box;
+}
+.search i {
+   color: grey;
+   position:
+}
+.search {
+   overflow: hidden;
+   display: block;
+   width: 60%;
+   margin: auto;
+   border: 1.5px solid #e6e6e6;
+   border-radius: 20px;
+   padding: 8px;
+   box-sizing: border-box;
+   padding-left: 13px;
+}
+.heading {
+   overflow: hidden;
+}
+.left-m {
+   background: #4d4d4d;
+   color: white;
+   padding: 3px 6px;
+   border-radius: 50%;
+   opacity: 0.6;
+}
+.icon::before {
+   content: '\f00a';
+   font-family: 'Font Awesome 5 Free';
+   font-weight: bold;
+}
+.icon {
+   color: grey;
+}
+.google-botton {
+   overflow: hidden;
+   
+   margin:25px auto;
+   width: 40%;
+}
+.botton-1 {
+
+   font-weight: normal;
+   background: rgba(242, 242, 242, 0.5);
+   font-size: 14px;
+   padding: 10px 22px;
+   float: left;
+   
+}
+.botton-1 {
+  
+   color: #4d4d4d;
+   
+}
+.botton-2 {
+   
+   background: rgba(242, 242, 242, 0.5);
+   font-size: 14px;
+   font-weight: normal;
+   padding: 10px 16px;
+   border: none;
+   float: right;
+   
+}
+
+.botton-2 {
+   
+   color: #4d4d4d;
+}
+.google-offer p a {
+   text-decoration: none;
+   padding-left: 2px;
+   font-size: 12.3px;
+}
+.google-offer p {
+   font-size: 13px;
+}
+.google-offer {
+   width: 56%;
+   margin: auto;
+   margin-bottom: 80px;
+}
+
+
+.footer {
+   background: #e6e6e6;
+   overflow: hidden;
+}
+.fot-1 {
+   border-top: 1px solid #cccccc;
+   padding: 0 15px;
+   font-size: 12px;
+   color: #4d4d4d;
+}
+.fot-2 {
+   border-top: 1px solid #cccccc;
+   padding: 7px 15px;
+}
+.fot-2 a {
+   text-decoration: none;
+   font-size: 12px;
+   color: #4d4d4d;
+   padding-right: 8px;
+}
+.fot-left {
+   float: left;
+}
+.fot-right {
+   float: right;
+   margin-bottom: 9px;
+}
+a:hover {
+   text-decoration: underline;
+}
